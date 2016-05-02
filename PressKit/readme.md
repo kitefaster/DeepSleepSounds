@@ -9,5 +9,5 @@ http://kitefaster.com/DeepSleepSounds/DeepSleepSounds.html
 
 App Preview Videos  
 Apple TV: https://youtu.be/ct92qJWfIDg  
-iPhone: https://www.facebook.com/1761156317452107/videos/1761158757451863/  
-iPad: https://www.facebook.com/1761156317452107/videos/1761159547451784/
+iPhone: https://youtu.be/BqeHSaID-u4  
+iPad: https://youtu.be/KG2UGn9itzY
