@@ -7,6 +7,9 @@ https://itunes.apple.com/app/deep-sleep-sounds-white-noise/id1071329060?mt=8&pt=
 Homepage:  
 http://kitefaster.com/DeepSleepSounds/DeepSleepSounds.html
 
+Press Release:
+http://kitefaster.com/2016/05/06/deep-sleep-sounds-now-available-for-ios-and-apple-tv/
+
 App Preview Videos  
 Apple TV: https://youtu.be/ct92qJWfIDg  
 iPhone: https://youtu.be/fhoJngWGE-8  
