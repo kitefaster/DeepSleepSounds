@@ -6,5 +6,6 @@ Website: http://kitefaster.com
 Facebook: https://www.facebook.com/kitefaster  
 Twitter: @KitefasterApps https://twitter.com/kitefasterapps  
 Instagram: https://www.instagram.com/kitefaster/  
+Pinterest: https://www.pinterest.com/kitefaster/  
 YouTube: https://www.youtube.com/channel/UCUFfPE4CCmjVgBNsWkmAJGw  
 GitHub: https://github.com/kitefaster/  
